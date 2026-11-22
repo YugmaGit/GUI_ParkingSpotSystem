@@ -5,11 +5,7 @@ import java.util.ArrayList;
  * unique slot IDs, parking only in free slots of the right type, a car in only one slot,
  * and no deleting of occupied slots. It contains no user-interface code; problems are
  * reported by throwing exceptions whose messages can be shown to the user.
- *
- * @author Yugma ManojBhai Mangukiya
- * @id 106227407
- * @version 1.0
- * @date 24/10/2026
+
  */
 public class CarPark
 {
