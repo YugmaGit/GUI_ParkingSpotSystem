@@ -9,10 +9,6 @@ import java.time.format.DateTimeFormatter;
  * staff member and the time at which it was parked.
  * The class also calculates how long the car has been parked and the parking fee.
  *
- * @author Yugma ManojBhai Mangukiya
- * @id 106227407
- * @version 1.0
- * @date 24/10/2026
  */
 public class Car
 {
