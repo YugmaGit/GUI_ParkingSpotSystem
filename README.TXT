@@ -19,7 +19,7 @@ CLASSES:
 HOW TO START THIS PROJECT:
 1. Open the folder as a project (Project > Open Project).
 2. Click Compile.
-3. Right-click the class ParkingSystemGUI and choose  void main(String[] args).
+3. Right-click the class ParkingSystemGUI.
 
 USER INSTRUCTIONS:
 
