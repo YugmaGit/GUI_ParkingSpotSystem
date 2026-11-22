@@ -4,10 +4,7 @@ import java.time.LocalDateTime;
  * One parking slot of the car park. A slot has an identifier (one capital letter followed
  * by three digits, e.g. "S001"), a type (staff or visitor) and may hold one parked car.
  *
- * @author Yugma ManojBhai Mangukiya
- * @id 106227407
- * @version 1.0
- * @date 24/10/2026
+
  */
 public class ParkingSlot
 {
