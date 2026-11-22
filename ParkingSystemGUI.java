@@ -20,11 +20,6 @@ import java.util.Map;
  * to park or remove a car, delete the slot or see the car's details. All user input and
  * all messages use Swing dialogs (no console). The business rules are in the CarPark,
  * ParkingSlot and Car classes; this class only collects input and shows results.
- *
- * @author Yugma ManojBhai Mangukiya
- * @id 106227407
- * @version 1.0
- * @date 24/10/2026
  */
 public class ParkingSystemGUI extends JFrame
 {
